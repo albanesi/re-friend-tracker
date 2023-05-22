@@ -420,9 +420,9 @@ export class GuiModel {
                         },
                         {
                             "type": "newButton",
-                            "name": "NewActivity",
-                            "icon": "fa-schedule",
-                            "color": "orange",
+                            "name": "Edit Activity",
+                            "icon": "fa-calendar-days",
+                            "color": "black",
                             "form": {
                                 "form": "AddActivityForm"
                             }

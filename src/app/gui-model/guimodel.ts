@@ -366,15 +366,6 @@ export class GuiModel {
                             }
                         },
                         {
-                            "type": "newButton",
-                            "name": "NewFriend",
-                            "icon": "fa-user",
-                            "color": "green",
-                            "form": {
-                                "form": "FriendForm"
-                            }
-                        },
-                        {
                             "type": "list",
                             "icon": "fa-weixin",
                             "color": "wisteria",
